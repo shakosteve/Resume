@@ -5,6 +5,7 @@ Phone: 612-991-2217
 email: zamdrist@gmail.com  
 
 [LinkedIn](https://www.linkedin.com/in/steve-schroeder-3904624/) | [Github](https://github.com/Zamdrist) | [Stack Overflow](https://stackoverflow.com/users/3662287/steve)  
+Reviews: [2022](Reviews/SWS%202022.pdf) | [2021](Reviews/Steve%202021.pdf) | [2020](Reviews/Steve%202020.pdf)  
 
 ### Skills
 Microsoft SQL Server: Administration, Configuration, Security, Scheduled Jobs  
