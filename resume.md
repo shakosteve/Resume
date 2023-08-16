@@ -16,7 +16,7 @@ Agile and Scrum development practices
 
 ### Employment History
 **4/3/2015 - Present**  
-Fish & Richardson, P.C. Minneapolis, MN
+Fish & Richardson, P.C. Minneapolis, MN  
 Position: Sr. Software Engineer  
 * Data management and ETL using T-SQL and SSIS
 * Git, Microsoft Azure DevOps
