@@ -8,7 +8,7 @@ email: zamdrist@gmail.com
 Reviews: [2022](Reviews/SWS%202022.pdf) | [2021](Reviews/Steve%202021.pdf) | [2020](Reviews/Steve%202020.pdf)  
 
 ### Skills
-**Microsoft SQL Server:** Administration, Configuration, Security, Scheduled Jobs, T-SQL, SSIS, and SSRS  
+**Microsoft SQL Server:** Administration, Security, Jobs, T-SQL, SSIS, and SSRS  
 **IDEs:** Visual Studio, VS Code, JetBrains Rider, and Webstorm  
 **Programming:** C# and .Net Framework  
 **Tools:** Azure DevOps, Pipelines, Tag and Branch Management, Git, Git Bash, Redgate SQL Prompt, Compare, and Source Control  
